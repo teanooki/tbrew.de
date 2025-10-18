@@ -1,0 +1,483 @@
+[
+    {
+        "title": "Even NEIPAs Need Water",
+        "style": "New England IPA",
+        "description": "Introducing the absolutely delicious clone of the legendary \"Even Sharks Need Water\" by Verdant - a New England IPA that is sure to tantalize your taste buds. Bursting with Galaxy and Citra hops, this brew is a hop lover's dream come true. The aroma is a sensory delight with tropical fruit, citrus and floral notes that give way to a smooth, silky mouthfeel. The flavor profile is complex, with an initial burst of juicy citrus followed by a subtle bitterness that lingers long after the last sip. This brew is a true homage to the New England style, with a hazy, yellow appearance that hints at the unfiltered goodness within.",
+        "brewed": "2023-02-12",
+        "bottled": "2023-02-26",
+        "stats": {
+            "abv": 6.6,
+            "ibu": 28,
+            "og": 16.2
+        },
+        "ingredients": {
+            "hops": [
+                "Mosaic",
+                "Citra",
+                "Citra Lupomax",
+                "Nelson Sauvin"
+            ],
+            "malts": [
+                "Crisp Extra Pale",
+                "Golden Promise",
+                "Carapils",
+                "Wheat",
+                "Oats"
+            ],
+            "yeast": [
+                "Verdant"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-even-neipas-need-water\/5253089"
+    },
+    {
+        "title": "Happy New NEIPA",
+        "style": "New England IPA",
+        "description": "I've chosen my hazy yellow dress just to impress you with me citrusy tropical fragrance and my grapefruity, minty soul. Hoppy juice for skipping the dry January.",
+        "brewed": "2022-12-18",
+        "bottled": "2022-12-31",
+        "stats": {
+            "abv": 6,
+            "ibu": 36,
+            "og": 14.9
+        },
+        "ingredients": {
+            "hops": [
+                "Mosaic",
+                "Citra",
+                "Citra Lupomax",
+                "Nelson Sauvin"
+            ],
+            "malts": [
+                "Maris Otter",
+                "Pale Ale",
+                "Oats"
+            ],
+            "yeast": [
+                "Verdant"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-happy-new-neipa\/5188841"
+    },
+    {
+        "title": "Welcome To Hell",
+        "style": "Munich Helles Lager",
+        "description": "Brewed for an Oktoberfest that never happened. Welcome to Hell with Diamant hops in the pool.",
+        "brewed": "2022-09-04",
+        "bottled": "2022-12-08",
+        "stats": {
+            "abv": 5,
+            "ibu": 19,
+            "og": 11.4
+        },
+        "ingredients": {
+            "hops": [
+                "Diamant"
+            ],
+            "malts": [
+                "Pilsen",
+                "Munich",
+                "Melanoidin"
+            ],
+            "yeast": [
+                "w-34\/70"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-welcome-to-hell\/5151508"
+    },
+    {
+        "title": "Kill Kenny",
+        "style": "Irish Red Ale",
+        "description": "",
+        "brewed": "2022-07-31",
+        "bottled": "2022-08-03",
+        "stats": {
+            "abv": 4.3,
+            "ibu": 24,
+            "og": 10.9
+        },
+        "ingredients": {
+            "hops": [
+                "Cascade",
+                "East Kent Goldings",
+                "Target"
+            ],
+            "malts": [
+                "Red X",
+                "Pale Ale"
+            ],
+            "yeast": [
+                "Nottingham"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-kill-kenny\/5012672"
+    },
+    {
+        "title": "Golden as Pale",
+        "style": "American Pale Ale",
+        "description": "",
+        "brewed": "2022-07-10",
+        "bottled": "2022-07-31",
+        "stats": {
+            "abv": 6,
+            "ibu": 43,
+            "og": 14.7
+        },
+        "ingredients": {
+            "hops": [
+                "Saphir",
+                "Tsingtao",
+                "Perle",
+                "Magnum"
+            ],
+            "malts": [
+                "Pilsener",
+                "Caramunich",
+                "Wheat"
+            ],
+            "yeast": [
+                "US-05"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-golden-as-pale\/5012671"
+    },
+    {
+        "title": "Gold of Common Wealth",
+        "style": "NEPA",
+        "description": "At the Braumarkt Hamburg I was given some East Kent Golding hops. Together with Pacific Gem and a touch of Citra Lupomax, the package Besserbrauer Helles is now a trip around the world. Like Commonwealth, but with Citra from the States.",
+        "brewed": "2022-05-22",
+        "bottled": "2022-06-05",
+        "stats": {
+            "abv": 5.6,
+            "ibu": 39,
+            "og": 13.5
+        },
+        "ingredients": {
+            "hops": [
+                "East Kent Golding",
+                "Pacific Gem",
+                "Citra Lupomax"
+            ],
+            "malts": [
+                "Unknown Barley"
+            ],
+            "yeast": [
+                "Verdant IPA"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-gold-of-common-wealth\/4858464"
+    },
+    {
+        "title": "Barn Owl #2",
+        "style": "British Golden Ale",
+        "description": "This is a new chapter of the barn owl. Besserbrauer Helles combined with cbc1 yeast and English East Kent Golding hops",
+        "brewed": "2022-03-13",
+        "bottled": "2022-04-24",
+        "stats": {
+            "abv": 3.8,
+            "ibu": 37,
+            "og": 10.2
+        },
+        "ingredients": {
+            "hops": [
+                "East Kent Golding",
+                "Magnum"
+            ],
+            "malts": [
+                "Unknown Barley"
+            ],
+            "yeast": [
+                "CBC-1"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-barn-owl-2\/4833606"
+    },
+    {
+        "title": "Pimp my Pale",
+        "style": "NEPA",
+        "description": "This is the Besserbrauer Pale Ale on steroids. Tuned water profile meets a fruity mix of dry hopped hops.",
+        "brewed": "2021-10-17",
+        "bottled": "2021-11-13",
+        "stats": {
+            "abv": 4.1,
+            "ibu": 29,
+            "og": 10.7
+        },
+        "ingredients": {
+            "hops": [
+                "Cascade",
+                "Citra Lupomax",
+                "Ariana",
+                "Pacific Gem"
+            ],
+            "malts": [
+                "Unknown Barley",
+                "Oat flakes"
+            ],
+            "yeast": [
+                "Verdant IPA"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-pimp-my-pale\/4697526"
+    },
+    {
+        "title": "6 Points",
+        "style": "Best Bitter",
+        "description": "Six Points Best actually is the Five Points bitter from The Malt Miller. It is a single-hopped Best Bitter, brewed with Fuggles hops from their own specific hop farmer refreshing and smooth, Best has notes of caramel and biscuit, and a lovely grassy, herbal freshness that makes you want to reach for another one. It is only served from cask.",
+        "brewed": "2021-10-17",
+        "bottled": "2021-11-13",
+        "stats": {
+            "abv": 4.1,
+            "ibu": 29,
+            "og": 10.7
+        },
+        "ingredients": {
+            "hops": [
+                "Fuggles"
+            ],
+            "malts": [
+                "Maris Otter",
+                "Wheat Malt",
+                "Amber Malt",
+                "Crystal Medium"
+            ],
+            "yeast": [
+                "WLP013 London Ale"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-6-points\/4613875"
+    },
+    {
+        "title": "Oriolus Chinensis 2",
+        "style": "International Pale Lager",
+        "description": "Another Tsing Tao inspired lager. This time brewed with thai rice and Tsing Tao flower hops only.",
+        "brewed": "2021-10-03",
+        "bottled": "2021-11-13",
+        "stats": {
+            "abv": 5.1,
+            "ibu": 22,
+            "og": 11.7
+        },
+        "ingredients": {
+            "hops": [
+                "Tsing Tao Flower"
+            ],
+            "malts": [
+                "Pilsener",
+                "Caramel Pils",
+                "Rice"
+            ],
+            "yeast": [
+                "W 34\/70"
+            ]
+        }
+    },
+    {
+        "title": "Hello Again",
+        "style": "New England Pale Ale",
+        "description": "Prescribed malt mix and hops amount from Braumischung.de. My contribution to the Hamburg Beer Weekend 2021 hobbybrewer challenge.",
+        "brewed": "2021-07-19",
+        "bottled": "2021-08-01",
+        "stats": {
+            "abv": 5.3,
+            "ibu": 17,
+            "og": 13
+        },
+        "ingredients": {
+            "hops": [
+                "Callista",
+                "Amarillo",
+                "Tango",
+                "Polaris"
+            ],
+            "malts": [
+                "Pale Ale",
+                "Caramel Pils",
+                "Malted Oats",
+                "Wheat"
+            ],
+            "yeast": [
+                "Verdant IPA"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-hello-again\/4463487"
+    },
+    {
+        "title": "Oriolus Chinensis",
+        "style": "India Pale Lager",
+        "description": "This beer is inspired by the famous Tsing Tao Lager. By contrast it is dry hopped with a load of Tsing Tao Flower hops, which makes it a nice companion for bitter melon with rice.",
+        "brewed": "2021-05-24",
+        "bottled": "2021-06-27",
+        "stats": {
+            "abv": 4.7,
+            "ibu": 20,
+            "og": 10.9
+        },
+        "ingredients": {
+            "hops": [
+                "Tsingtao Flower",
+                "Ariana",
+                "Saphir"
+            ],
+            "malts": [
+                "Pilsener",
+                "Flaked Rice"
+            ],
+            "yeast": [
+                "Angel BF16"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-oriolus-chinensis\/4428628"
+    },
+    {
+        "title": "Barn Owl",
+        "style": "British Golden Ale",
+        "description": "Warm summer afternoon. Shorts. Long trip in the nature. Thick air. Pub in Salisbury. Dark sky. Still warm. Summer lightning. In the hand a cool pint.",
+        "brewed": "2021-04-10",
+        "bottled": "2021-04-27",
+        "stats": {
+            "abv": 5,
+            "ibu": 32,
+            "og": 11.2
+        },
+        "ingredients": {
+            "hops": [
+                "East Kent Golding",
+                "Fuggles"
+            ],
+            "malts": [
+                "Maris Otter",
+                "Pilsen"
+            ],
+            "yeast": [
+                "Nottingham"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-barn-owl\/4281393"
+    },
+    {
+        "title": "Spinus Spinus",
+        "style": "Munich Helles Lager",
+        "description": "Munich. Hofbr\u00e4uhaus. Beer gardens. Volksfest. Dirndls and Lederhosen. Brezels. That's it!",
+        "brewed": "2020-12-29",
+        "bottled": "2021-02-28",
+        "stats": {
+            "abv": 4.9,
+            "ibu": 21,
+            "og": 11
+        },
+        "ingredients": {
+            "hops": [
+                "Saphir",
+                "Ariana"
+            ],
+            "malts": [
+                "Pilsener",
+                "Carapils",
+                "Carahell"
+            ],
+            "yeast": [
+                "w-34\/70"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-spinus-spinus\/4237354"
+    },
+    {
+        "title": "Little Bullfinch",
+        "style": "American Amber Ale",
+        "description": "American amber ale with dry hopped painstakingly picked wild hops from Hamburg Altona. Hallertau Ariana brings fresh berries into the red body. Good morning, little bullfinch.",
+        "brewed": "2020-12-27",
+        "stats": {
+            "abv": 5.9,
+            "ibu": 38,
+            "og": 14.4
+        },
+        "ingredients": {
+            "hops": [
+                "Hallertau Ariana"
+            ],
+            "malts": [
+                "Red-X"
+            ],
+            "yeast": [
+                "Nottingham"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-little-bullfinch\/4120778"
+    },
+    {
+        "title": "Victorian Burton Ale",
+        "style": "Superior Bitter",
+        "description": "A tribute to the beginning of all these IPAs. Burtonized and barrelised. A superior bitter like in the Victorian times with a special burbon flavor from Limousin oaks.",
+        "brewed": "2020-08-05",
+        "bottled": "2020-09-30",
+        "stats": {
+            "abv": 6.3,
+            "ibu": 52,
+            "og": 15.2
+        },
+        "ingredients": {
+            "hops": [
+                "East Kent Golding"
+            ],
+            "malts": [
+                "Maris Otter"
+            ],
+            "yeast": [
+                "Safale S04"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-victorian-burton-ale\/4030712"
+    },
+    {
+        "title": "Sunset Ale",
+        "style": "Hazy Pale Ale",
+        "description": "Like a cocktail on the beach when the sun goes down. Mosaic and Vic Secret hops and a big load of oats make that wonderful feeling. Wanderlust for tropical relaxation.",
+        "brewed": "2020-07-24",
+        "bottled": "2020-08-05",
+        "stats": {
+            "abv": 6.5,
+            "ibu": 30,
+            "og": 15.5
+        },
+        "ingredients": {
+            "hops": [
+                "Mosaic",
+                "Vic Secret"
+            ],
+            "malts": [
+                "Pale Ale",
+                "Wheat",
+                "Cara Crystal",
+                "Oats"
+            ],
+            "yeast": [
+                "London Ale 3"
+            ]
+        },
+        "untappd": "https:\/\/untappd.com\/b\/t-brew-homebrew-sunset-ale\/3938166"
+    },
+    {
+        "title": "The Besserwisser",
+        "style": "The Besserwisser",
+        "description": "The very first beer. Based on Besserbrauer IPA beginner brew set this beer is an old school low carbonated ale. It has a nice color, a good malty body and a pleasant bitterness.",
+        "brewed": "2020-05-01",
+        "bottled": "2020-06-01",
+        "stats": {
+            "abv": 6,
+            "ibu": 20,
+            "og": 15.5
+        },
+        "ingredients": {
+            "hops": [
+                "Citra"
+            ],
+            "malts": [
+                "Pale Ale"
+            ],
+            "yeast": [
+                "Safale US-05"
+            ]
+        }
+    }
+]
