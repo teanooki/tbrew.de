@@ -1,0 +1,10 @@
+services:
+  web:
+    container_name: ${APP_NAME}
+    build:
+      context: .
+      args:
+        APP_NAME: ${APP_NAME}
+        BOOTSTRAP_VERSION: ${BOOTSTRAP_VERSION}
+    ports:
+      - "${PORT}:80"
