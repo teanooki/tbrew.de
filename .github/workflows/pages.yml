@@ -43,9 +43,8 @@ jobs:
           echo "Downloading Bootstrap..."
           [ -d tmp-bootstrap ] && rm -rf tmp-bootstrap
           git clone --depth 1 --branch v5.3.8 https://github.com/twbs/bootstrap.git tmp-bootstrap
-          cp -r tmp-bootstrap/dist/css/bootstrap.min.css docs/css
-          cp -r tmp-bootstrap/dist/css/bootstrap.min.css.map docs/css
-          cp -r tmp-bootstrap/dist/js/bootstrap.bundle.min.js docs/js
+          cp --remove-destination tmp-bootstrap/dist/css/bootstrap.min.css* docs/css
+          cp --remove-destination tmp-bootstrap/dist/js/bootstrap.bundle.min.js* docs/js
           rm -rf tmp-bootstrap
 
       # Cache the vendor folder for faster future runs
