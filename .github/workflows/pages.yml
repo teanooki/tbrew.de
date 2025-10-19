@@ -48,6 +48,9 @@ jobs:
           cp --remove-destination vendor/bootstrap/dist/css/bootstrap.min.css.map docs/css
           cp --remove-destination vendor/bootstrap/dist/js/bootstrap.bundle.min.js docs/js
           cp --remove-destination vendor/bootstrap/dist/js/bootstrap.bundle.min.js.map docs/js
+          git clone --depth 1 --branch v3.7.1 https://github.com/jquery/jquery.git vendor/jquery
+          cp --remove-destination vendor/jquery/dist/jquery.slim.min.js docs/js
+          cp --remove-destination vendor/jquery/dist/jquery.slim.min.map docs/js
 
       # Cache the vendor folder for faster future runs
       - name: Cache vendor directory
