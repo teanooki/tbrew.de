@@ -43,7 +43,7 @@ jobs:
           echo "Downloading Bootstrap..."
           [ -d vendor ] && rm -rf vendor
           mkdir vendor
-          git clone --depth 1 --branch v5.3.8 https://github.com/twbs/bootstrap.git vendor
+          git clone --depth 1 --branch v5.3.8 https://github.com/twbs/bootstrap.git vendor/bootstrap
           cp --remove-destination vendor/bootstrap/dist/css/bootstrap.min.css docs/css
           cp --remove-destination vendor/bootstrap/dist/css/bootstrap.min.css.map docs/css
           cp --remove-destination vendor/bootstrap/dist/js/bootstrap.bundle.min.js docs/js
