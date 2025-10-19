@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Baskerville Old Face';
-  src: url('/fonts/baskerville-old-face.ttf');
+  src: url('../fonts/baskerville-old-face.ttf');
 }
 
 body {
